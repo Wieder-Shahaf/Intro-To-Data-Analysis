@@ -55,28 +55,6 @@ This project investigates the academic performance of students through explorato
   </li>
 </ol>
 
-<h2>Installation</h2>
-<p>To set up and run the project locally, clone the repository and install the necessary dependencies:</p>
-<pre><code>
-# Clone this repository
-git clone https://github.com/yourusername/your-repository-name.git
-
-# Navigate into the repository
-cd your-repository-name
-
-# Install required libraries
-pip install -r requirements.txt
-</code></pre>
-
-<h2>Usage</h2>
-<ol>
-  <li><b>Run Exploratory Analysis</b>
-    <p>Open <code>exploratory_analysis.ipynb</code> to visualize data distributions and correlations.</p>
-  </li>
-  <li><b>Model Training & Evaluation</b>
-    <p>Use <code>classification_model.py</code> to train the KNN classifier and assess its performance.</p>
-  </li>
-</ol>
 
 <h2>Results</h2>
 <p>
